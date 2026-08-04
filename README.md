@@ -24,3 +24,6 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 - VRx → A0 (Arduino Analog)
 - VRy → A1 (Arduino Analog)
 - SW → 2 (Arduino Digital)
+
+# Libraries used
+- [LedControl by Eberhard Fahle](wayoda.github.io/LedControl/)
