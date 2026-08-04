@@ -40,4 +40,6 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 - If a collision appears the LEDs on the matrix display will flash 3 times
 - Press the joystick to play again
 
-
+# Simulation
+## [Wokwi Simulation](https://wokwi.com/projects/471003872741771265)
+## [Video Demonstration](https://www.youtube.com/shorts/27aSPxvOeAM)
