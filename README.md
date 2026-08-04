@@ -10,13 +10,13 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 - Full Breadboard and jumper wires
 - Joystick module
 
-## Pin Connections
-# MAX7219 to Arduino
+# Pin Connections
+## MAX7219 to Arduino
 - VCC → 5V (Breadboard)
 - GND → GND (Breadboard)
 - DIN → 11 (Arduino)
 - CS → 10 (Arduino)
 - CLK → 13 (Arduino)
 
-# Joystick to Arduino
+## Joystick to Arduino
 - 
