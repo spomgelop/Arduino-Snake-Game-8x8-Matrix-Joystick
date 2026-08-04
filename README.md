@@ -27,3 +27,17 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 
 # Libraries used
 - [LedControl by Eberhard Fahle](https://github.com/wayoda/LedControl)
+
+# How to use
+- Install the LedControl library using the Arduino IDE library manager
+- Upload the code to your Arduino
+- The 8x8 matrix should display a 2x2 square in the middle
+- Press in on the joystick to start the game
+- Move the joystick in the direction you want the snake to move
+- Eat the food that randomly pops up on the 8x8 matrix display
+- Avoid collision with the snake or the 4 walls
+- The snake will grow longer the more you eat the food
+- If a collision appears the LEDs on the matrix display will flash 3 times
+- Press the joystick to play again
+
+
