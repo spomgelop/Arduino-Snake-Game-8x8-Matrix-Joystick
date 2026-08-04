@@ -41,5 +41,5 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 - Press the joystick to play again
 
 # Simulation
-## [Wokwi Simulation](https://wokwi.com/projects/471003872741771265)
-## [Video Demonstration](https://www.youtube.com/shorts/27aSPxvOeAM)
+[Wokwi Simulation](https://wokwi.com/projects/471003872741771265)
+[Video Demonstration](https://www.youtube.com/shorts/27aSPxvOeAM)
