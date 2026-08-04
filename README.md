@@ -26,4 +26,4 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 - SW → 2 (Arduino Digital)
 
 # Libraries used
-- [LedControl by Eberhard Fahle](github.com/wayoda/LedControl)
+- [LedControl by Eberhard Fahle](https://github.com/wayoda/LedControl)
