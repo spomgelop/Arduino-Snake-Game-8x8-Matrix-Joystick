@@ -12,11 +12,15 @@ In this project, I used a MAX7219 LED matrix to build a classic game called Snak
 
 # Pin Connections
 ## MAX7219 to Arduino
-- VCC → 5V (Breadboard)
-- GND → GND (Breadboard)
-- DIN → 11 (Arduino)
-- CS → 10 (Arduino)
-- CLK → 13 (Arduino)
+- VCC → 5V (Breadboard power rail)
+- GND → GND (Breadboard power rail)
+- DIN → 11 (Arduino Digital)
+- CS → 10 (Arduino Digital)
+- CLK → 13 (Arduino Digital)
 
 ## Joystick to Arduino
-- 
+- 5V → 5V (Breadboard power rail)
+- GND → GND (Breadboard power rail)
+- VRx → A0 (Arduino Analog)
+- VRy → A1 (Arduino Analog)
+- SW → 2 (Arduino Digital)
